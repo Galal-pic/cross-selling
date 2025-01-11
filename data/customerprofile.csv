@@ -1,0 +1,6 @@
+CustomerID,Name,Sex,HouseLocation,Age,MaritalStatus,AccountType,AccountBalance,Risk,IncomeEstimation
+0,Ahmed Ali,Male,Cairo,30,Single,CREDIT_CARD,15000.00,Medium,50000.00
+1,Mona Samy,Female,Alexandria,28,Married,DEBIT,20000.00,Low,60000.00
+2,Omar Khaled,Male,Giza,35,Married,CREDIT_CARD,25000.00,High,70000.00
+3,Yara Hossam,Female,Luxor,22,Single,DEBIT,10000.00,Low,40000.00
+4,Karim Adel,Male,Aswan,40,Married,CREDIT_CARD,30000.00,Medium,80000.00

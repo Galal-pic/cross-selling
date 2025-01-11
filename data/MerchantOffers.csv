@@ -1,0 +1,101 @@
+,Offer_ID,MerchantID,Offer_Description,Offer_Start_Date,Offer_End_Date
+0,0,0,20% off on all meals,2023-10-01,2023-10-15
+1,1,1,"Buy one Big Mac, get one free",2023-10-05,2023-10-20
+2,2,2,50% off on all large pizzas,2023-10-10,2023-10-25
+3,3,3,Free fries with any burger purchase,2023-10-15,2023-10-30
+4,4,4,Combo meal for just EGP 50,2023-10-20,2023-11-05
+5,5,5,"Buy one coffee, get one free",2023-10-25,2023-11-10
+6,6,6,Free pastry with any coffee purchase,2023-10-01,2023-10-15
+7,7,7,20% off on all burgers,2023-10-05,2023-10-20
+8,8,8,Free dessert with any main course,2023-10-10,2023-10-25
+9,9,9,10% off on all traditional dishes,2023-10-15,2023-10-30
+10,10,10,10% off on all groceries,2023-10-01,2023-10-15
+11,11,11,Get EGP 100 off on purchases above EGP 500,2023-10-05,2023-10-20
+12,12,12,20% off on fresh produce,2023-10-10,2023-10-25
+13,13,13,Free delivery on orders above EGP 300,2023-10-15,2023-10-30
+14,14,14,15% off on all dairy products,2023-10-20,2023-11-05
+15,15,15,"Buy 2, get 1 free on selected items",2023-10-25,2023-11-10
+16,16,16,10% off on all frozen foods,2023-10-01,2023-10-15
+17,17,17,Free shopping bag with every purchase,2023-10-05,2023-10-20
+18,18,18,20% off on all bakery items,2023-10-10,2023-10-25
+19,19,19,Get a free gift on purchases above EGP 200,2023-10-15,2023-10-30
+20,20,20,50% off on all summer clothing,2023-10-01,2023-10-15
+21,21,21,"Buy 2, get 1 free on all items",2023-10-05,2023-10-20
+22,22,22,30% off on all jeans,2023-10-10,2023-10-25
+23,23,23,Free scarf with any winter jacket purchase,2023-10-15,2023-10-30
+24,24,24,20% off on all kids' clothing,2023-10-20,2023-11-05
+25,25,25,10% off on all sports wear,2023-10-25,2023-11-10
+26,26,26,Free socks with any shoe purchase,2023-10-01,2023-10-15
+27,27,27,15% off on all accessories,2023-10-05,2023-10-20
+28,28,28,20% off on all formal wear,2023-10-10,2023-10-25
+29,29,29,Free cap with any purchase above EGP 300,2023-10-15,2023-10-30
+30,30,30,10% off on all electronics,2023-10-01,2023-10-15
+31,31,31,Free delivery on orders above EGP 1000,2023-10-05,2023-10-20
+32,32,32,20% off on all smartphones,2023-10-10,2023-10-25
+33,33,33,Free earphones with any laptop purchase,2023-10-15,2023-10-30
+34,34,34,15% off on all home appliances,2023-10-20,2023-11-05
+35,35,35,10% off on all TVs,2023-10-25,2023-11-10
+36,36,36,Free installation on all AC purchases,2023-10-01,2023-10-15
+37,37,37,20% off on all gaming consoles,2023-10-05,2023-10-20
+38,38,38,Free power bank with any mobile purchase,2023-10-10,2023-10-25
+39,39,39,10% off on all Apple products,2023-10-15,2023-10-30
+40,40,40,Get a free vitamin pack with any purchase,2023-10-01,2023-10-15
+41,41,41,20% off on all skincare products,2023-10-05,2023-10-20
+42,42,42,Free consultation with any purchase above EGP 200,2023-10-10,2023-10-25
+43,43,43,15% off on all baby care products,2023-10-15,2023-10-30
+44,44,44,10% off on all supplements,2023-10-20,2023-11-05
+45,45,45,Free mask with any purchase,2023-10-25,2023-11-10
+46,46,46,20% off on all hair care products,2023-10-01,2023-10-15
+47,47,47,Free hand sanitizer with any purchase above EGP 100,2023-10-05,2023-10-20
+48,48,48,15% off on all dental care products,2023-10-10,2023-10-25
+49,49,49,10% off on all first aid products,2023-10-15,2023-10-30
+50,50,0,Free soft drink with any meal,2023-11-01,2023-11-15
+51,51,1,20% off on all breakfast meals,2023-11-05,2023-11-20
+52,52,2,Free garlic bread with any pizza order,2023-11-10,2023-11-25
+53,53,3,10% off on all chicken burgers,2023-11-15,2023-11-30
+54,54,4,Combo meal for just EGP 60,2023-11-20,2023-12-05
+55,55,5,Free refill on all coffee orders,2023-11-25,2023-12-10
+56,56,6,20% off on all iced beverages,2023-11-01,2023-11-15
+57,57,7,Free onion rings with any burger purchase,2023-11-05,2023-11-20
+58,58,8,10% off on all seafood dishes,2023-11-10,2023-11-25
+59,59,9,Free traditional dessert with any main course,2023-11-15,2023-11-30
+60,60,10,15% off on all organic products,2023-11-01,2023-11-15
+61,61,11,Get EGP 150 off on purchases above EGP 700,2023-11-05,2023-11-20
+62,62,12,25% off on all bakery items,2023-11-10,2023-11-25
+63,63,13,Free delivery on orders above EGP 400,2023-11-15,2023-11-30
+64,64,14,20% off on all frozen foods,2023-11-20,2023-12-05
+65,65,15,"Buy 3, get 1 free on selected items",2023-11-25,2023-12-10
+66,66,16,10% off on all canned goods,2023-11-01,2023-11-15
+67,67,17,Free reusable bag with every purchase,2023-11-05,2023-11-20
+68,68,18,30% off on all snacks,2023-11-10,2023-11-25
+69,69,19,Get a free gift on purchases above EGP 300,2023-11-15,2023-11-30
+70,70,20,40% off on all winter clothing,2023-11-01,2023-11-15
+71,71,21,"Buy 1, get 1 free on all sweaters",2023-11-05,2023-11-20
+72,72,22,20% off on all jackets,2023-11-10,2023-11-25
+73,73,23,Free gloves with any winter coat purchase,2023-11-15,2023-11-30
+74,74,24,15% off on all baby clothing,2023-11-20,2023-12-05
+75,75,25,10% off on all running shoes,2023-11-25,2023-12-10
+76,76,26,Free belt with any jeans purchase,2023-11-01,2023-11-15
+77,77,27,20% off on all handbags,2023-11-05,2023-11-20
+78,78,28,15% off on all suits,2023-11-10,2023-11-25
+79,79,29,Free sunglasses with any purchase above EGP 500,2023-11-15,2023-11-30
+80,80,30,15% off on all laptops,2023-11-01,2023-11-15
+81,81,31,Free mouse with any desktop purchase,2023-11-05,2023-11-20
+82,82,32,25% off on all tablets,2023-11-10,2023-11-25
+83,83,33,Free keyboard with any PC purchase,2023-11-15,2023-11-30
+84,84,34,20% off on all washing machines,2023-11-20,2023-12-05
+85,85,35,10% off on all sound systems,2023-11-25,2023-12-10
+86,86,36,Free installation on all refrigerator purchases,2023-11-01,2023-11-15
+87,87,37,30% off on all gaming accessories,2023-11-05,2023-11-20
+88,88,38,Free headset with any console purchase,2023-11-10,2023-11-25
+89,89,39,15% off on all iPads,2023-11-15,2023-11-30
+90,90,40,Get a free first aid kit with any purchase,2023-11-01,2023-11-15
+91,91,41,25% off on all hair care products,2023-11-05,2023-11-20
+92,92,42,Free consultation with any purchase above EGP 300,2023-11-10,2023-11-25
+93,93,43,20% off on all baby food,2023-11-15,2023-11-30
+94,94,44,15% off on all vitamins,2023-11-20,2023-12-05
+95,95,45,Free hand cream with any purchase,2023-11-25,2023-12-10
+96,96,46,30% off on all shampoos,2023-11-01,2023-11-15
+97,97,47,Free sanitizer with any purchase above EGP 150,2023-11-05,2023-11-20
+98,98,48,20% off on all toothpaste,2023-11-10,2023-11-25
+99,99,49,15% off on all bandages,2023-11-15,2023-11-30

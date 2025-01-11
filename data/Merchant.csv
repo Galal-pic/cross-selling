@@ -1,0 +1,51 @@
+MerchantID,MCC_Code,Merchant_Name,SubCategory,Location
+0,5812,KFC,Restaurant,Cairo
+1,5812,McDonald's,Restaurant,Alexandria
+2,5812,Pizza Hut,Restaurant,Giza
+3,5812,Burger King,Restaurant,Luxor
+4,5812,Hardee's,Restaurant,Aswan
+5,5812,Starbucks,Restaurant,Cairo
+6,5812,Costa Coffee,Restaurant,Alexandria
+7,5812,Buffalo Burger,Restaurant,Giza
+8,5812,El Tahrir Restaurant,Restaurant,Luxor
+9,5812,Abou El Sid,Restaurant,Aswan
+10,5411,Carrefour,Grocery,Cairo
+11,5411,HyperOne,Grocery,Alexandria
+12,5411,Seoudi Market,Grocery,Giza
+13,5411,Alfa Market,Grocery,Luxor
+14,5411,Kheir Zaman,Grocery,Aswan
+15,5411,Spinneys,Grocery,Cairo
+16,5411,Oscar,Grocery,Alexandria
+17,5411,Zad Supermarket,Grocery,Giza
+18,5411,Metro Market,Grocery,Luxor
+19,5411,Alfa Market,Grocery,Aswan
+20,5651,H&M,Clothing,Cairo
+21,5651,Zara,Clothing,Alexandria
+22,5651,Pull & Bear,Clothing,Giza
+23,5651,Bershka,Clothing,Luxor
+24,5651,Max,Clothing,Aswan
+25,5651,LC Waikiki,Clothing,Cairo
+26,5651,Stradivarius,Clothing,Alexandria
+27,5651,Defacto,Clothing,Giza
+28,5651,Tommy Hilfiger,Clothing,Luxor
+29,5651,Adidas,Clothing,Aswan
+30,5732,Souq.com,Electronics,Cairo
+31,5732,Jumia,Electronics,Alexandria
+32,5732,Noon,Electronics,Giza
+33,5732,Eureka,Electronics,Luxor
+34,5732,El Araby Group,Electronics,Aswan
+35,5732,Sharaf DG,Electronics,Cairo
+36,5732,Extra,Electronics,Alexandria
+37,5732,B.Tech,Electronics,Giza
+38,5732,Samsung Store,Electronics,Luxor
+39,5732,Apple Store,Electronics,Aswan
+40,5912,Seif Pharmacy,Pharmacy,Cairo
+41,5912,El Ezaby Pharmacy,Pharmacy,Alexandria
+42,5912,19011 Pharmacy,Pharmacy,Giza
+43,5912,Al Dawaa Pharmacy,Pharmacy,Luxor
+44,5912,Al Shorouk Pharmacy,Pharmacy,Aswan
+45,5912,Misr Pharmacy,Pharmacy,Cairo
+46,5912,Al Borg Pharmacy,Pharmacy,Alexandria
+47,5912,Al Safa Pharmacy,Pharmacy,Giza
+48,5912,Al Hayat Pharmacy,Pharmacy,Luxor
+49,5912,Al Shams Pharmacy,Pharmacy,Aswan
