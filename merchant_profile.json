@@ -1,0 +1,1456 @@
+[
+    {
+        "MerchantID": 1,
+        "MCC_Code": 5812,
+        "Merchant_Name": "McDonald's",
+        "SubCategory": "Restaurant",
+        "Location": "Alexandria",
+        "Married_Female": 2.0,
+        "Married_Male": 2.0,
+        "Single_Male": 4.0,
+        "Single_Female": 0.0,
+        "HouseLocation": {
+            "Cairo": 4.0,
+            "Alexandria": 2.0,
+            "Giza": 2.0
+        },
+        "Ages": {
+            "30": 4.0,
+            "28": 2.0,
+            "35": 2.0
+        },
+        "AccountType": {
+            "DEBIT": 6.0,
+            "CREDIT_CARD": 2.0
+        },
+        "Offer_Description": {
+            "20% off on all breakfast meals": 4.0,
+            "Buy one Big Mac, get one free": 4.0
+        }
+    },
+    {
+        "MerchantID": 2,
+        "MCC_Code": 5812,
+        "Merchant_Name": "Pizza Hut",
+        "SubCategory": "Restaurant",
+        "Location": "Giza",
+        "Married_Female": 2.0,
+        "Married_Male": 10.0,
+        "Single_Male": 0.0,
+        "Single_Female": 2.0,
+        "HouseLocation": {
+            "Giza": 10.0,
+            "Alexandria": 2.0,
+            "Luxor": 2.0
+        },
+        "Ages": {
+            "35": 10.0,
+            "22": 2.0,
+            "28": 2.0
+        },
+        "AccountType": {
+            "CREDIT_CARD": 12.0,
+            "DEBIT": 2.0
+        },
+        "Offer_Description": {
+            "50% off on all large pizzas": 7.0,
+            "Free garlic bread with any pizza order": 7.0
+        }
+    },
+    {
+        "MerchantID": 3,
+        "MCC_Code": 5812,
+        "Merchant_Name": "Burger King",
+        "SubCategory": "Restaurant",
+        "Location": "Luxor",
+        "Married_Female": 4.0,
+        "Married_Male": 4.0,
+        "Single_Male": 4.0,
+        "Single_Female": 2.0,
+        "HouseLocation": {
+            "Alexandria": 4.0,
+            "Aswan": 4.0,
+            "Cairo": 4.0,
+            "Luxor": 2.0
+        },
+        "Ages": {
+            "28": 4.0,
+            "30": 4.0,
+            "40": 4.0,
+            "22": 2.0
+        },
+        "AccountType": {
+            "DEBIT": 8.0,
+            "CREDIT_CARD": 6.0
+        },
+        "Offer_Description": {
+            "10% off on all chicken burgers": 7.0,
+            "Free fries with any burger purchase": 7.0
+        }
+    },
+    {
+        "MerchantID": 4,
+        "MCC_Code": 5812,
+        "Merchant_Name": "Hardee's",
+        "SubCategory": "Restaurant",
+        "Location": "Aswan",
+        "Married_Female": 2.0,
+        "Married_Male": 2.0,
+        "Single_Male": 8.0,
+        "Single_Female": 4.0,
+        "HouseLocation": {
+            "Cairo": 8.0,
+            "Luxor": 4.0,
+            "Alexandria": 2.0,
+            "Giza": 2.0
+        },
+        "Ages": {
+            "30": 8.0,
+            "22": 4.0,
+            "28": 2.0,
+            "35": 2.0
+        },
+        "AccountType": {
+            "DEBIT": 10.0,
+            "CREDIT_CARD": 6.0
+        },
+        "Offer_Description": {
+            "Combo meal for just EGP 50": 8.0,
+            "Combo meal for just EGP 60": 8.0
+        }
+    },
+    {
+        "MerchantID": 5,
+        "MCC_Code": 5812,
+        "Merchant_Name": "Starbucks",
+        "SubCategory": "Restaurant",
+        "Location": "Cairo",
+        "Married_Female": 0.0,
+        "Married_Male": 4.0,
+        "Single_Male": 6.0,
+        "Single_Female": 2.0,
+        "HouseLocation": {
+            "Cairo": 6.0,
+            "Aswan": 2.0,
+            "Giza": 2.0,
+            "Luxor": 2.0
+        },
+        "Ages": {
+            "30": 6.0,
+            "22": 2.0,
+            "35": 2.0,
+            "40": 2.0
+        },
+        "AccountType": {
+            "CREDIT_CARD": 6.0,
+            "DEBIT": 6.0
+        },
+        "Offer_Description": {
+            "Buy one coffee, get one free": 6.0,
+            "Free refill on all coffee orders": 6.0
+        }
+    },
+    {
+        "MerchantID": 6,
+        "MCC_Code": 5812,
+        "Merchant_Name": "Costa Coffee",
+        "SubCategory": "Restaurant",
+        "Location": "Alexandria",
+        "Married_Female": 4.0,
+        "Married_Male": 6.0,
+        "Single_Male": 0.0,
+        "Single_Female": 2.0,
+        "HouseLocation": {
+            "Alexandria": 4.0,
+            "Giza": 4.0,
+            "Aswan": 2.0,
+            "Luxor": 2.0
+        },
+        "Ages": {
+            "28": 4.0,
+            "35": 4.0,
+            "22": 2.0,
+            "40": 2.0
+        },
+        "AccountType": {
+            "DEBIT": 8.0,
+            "CREDIT_CARD": 4.0
+        },
+        "Offer_Description": {
+            "20% off on all iced beverages": 6.0,
+            "Free pastry with any coffee purchase": 6.0
+        }
+    },
+    {
+        "MerchantID": 7,
+        "MCC_Code": 5812,
+        "Merchant_Name": "Buffalo Burger",
+        "SubCategory": "Restaurant",
+        "Location": "Giza",
+        "Married_Female": 0.0,
+        "Married_Male": 4.0,
+        "Single_Male": 2.0,
+        "Single_Female": 6.0,
+        "HouseLocation": {
+            "Luxor": 6.0,
+            "Aswan": 2.0,
+            "Cairo": 2.0,
+            "Giza": 2.0
+        },
+        "Ages": {
+            "22": 6.0,
+            "30": 2.0,
+            "35": 2.0,
+            "40": 2.0
+        },
+        "AccountType": {
+            "CREDIT_CARD": 6.0,
+            "DEBIT": 6.0
+        },
+        "Offer_Description": {
+            "20% off on all burgers": 6.0,
+            "Free onion rings with any burger purchase": 6.0
+        }
+    },
+    {
+        "MerchantID": 8,
+        "MCC_Code": 5812,
+        "Merchant_Name": "El Tahrir Restaurant",
+        "SubCategory": "Restaurant",
+        "Location": "Luxor",
+        "Married_Female": 0.0,
+        "Married_Male": 4.0,
+        "Single_Male": 2.0,
+        "Single_Female": 0.0,
+        "HouseLocation": {
+            "Giza": 4.0,
+            "Cairo": 2.0
+        },
+        "Ages": {
+            "35": 4.0,
+            "30": 2.0
+        },
+        "AccountType": {
+            "CREDIT_CARD": 4.0,
+            "DEBIT": 2.0
+        },
+        "Offer_Description": {
+            "10% off on all seafood dishes": 3.0,
+            "Free dessert with any main course": 3.0
+        }
+    },
+    {
+        "MerchantID": 9,
+        "MCC_Code": 5812,
+        "Merchant_Name": "Abou El Sid",
+        "SubCategory": "Restaurant",
+        "Location": "Aswan",
+        "Married_Female": 2.0,
+        "Married_Male": 10.0,
+        "Single_Male": 0.0,
+        "Single_Female": 0.0,
+        "HouseLocation": {
+            "Giza": 6.0,
+            "Aswan": 4.0,
+            "Alexandria": 2.0
+        },
+        "Ages": {
+            "35": 6.0,
+            "40": 4.0,
+            "28": 2.0
+        },
+        "AccountType": {
+            "CREDIT_CARD": 6.0,
+            "DEBIT": 6.0
+        },
+        "Offer_Description": {
+            "10% off on all traditional dishes": 6.0,
+            "Free traditional dessert with any main course": 6.0
+        }
+    },
+    {
+        "MerchantID": 10,
+        "MCC_Code": 5411,
+        "Merchant_Name": "Carrefour",
+        "SubCategory": "Grocery",
+        "Location": "Cairo",
+        "Married_Female": 4.0,
+        "Married_Male": 6.0,
+        "Single_Male": 4.0,
+        "Single_Female": 0.0,
+        "HouseLocation": {
+            "Alexandria": 4.0,
+            "Aswan": 4.0,
+            "Cairo": 4.0,
+            "Giza": 2.0
+        },
+        "Ages": {
+            "28": 4.0,
+            "30": 4.0,
+            "40": 4.0,
+            "35": 2.0
+        },
+        "AccountType": {
+            "DEBIT": 10.0,
+            "CREDIT_CARD": 4.0
+        },
+        "Offer_Description": {
+            "10% off on all groceries": 7.0,
+            "15% off on all organic products": 7.0
+        }
+    },
+    {
+        "MerchantID": 11,
+        "MCC_Code": 5411,
+        "Merchant_Name": "HyperOne",
+        "SubCategory": "Grocery",
+        "Location": "Alexandria",
+        "Married_Female": 0.0,
+        "Married_Male": 2.0,
+        "Single_Male": 2.0,
+        "Single_Female": 0.0,
+        "HouseLocation": {
+            "Cairo": 2.0,
+            "Giza": 2.0
+        },
+        "Ages": {
+            "30": 2.0,
+            "35": 2.0
+        },
+        "AccountType": {
+            "DEBIT": 4.0
+        },
+        "Offer_Description": {
+            "Get EGP 100 off on purchases above EGP 500": 2.0,
+            "Get EGP 150 off on purchases above EGP 700": 2.0
+        }
+    },
+    {
+        "MerchantID": 12,
+        "MCC_Code": 5411,
+        "Merchant_Name": "Seoudi Market",
+        "SubCategory": "Grocery",
+        "Location": "Giza",
+        "Married_Female": 2.0,
+        "Married_Male": 12.0,
+        "Single_Male": 4.0,
+        "Single_Female": 4.0,
+        "HouseLocation": {
+            "Aswan": 6.0,
+            "Giza": 6.0,
+            "Cairo": 4.0,
+            "Luxor": 4.0,
+            "Alexandria": 2.0
+        },
+        "Ages": {
+            "35": 6.0,
+            "40": 6.0,
+            "22": 4.0,
+            "30": 4.0,
+            "28": 2.0
+        },
+        "AccountType": {
+            "DEBIT": 12.0,
+            "CREDIT_CARD": 10.0
+        },
+        "Offer_Description": {
+            "20% off on fresh produce": 11.0,
+            "25% off on all bakery items": 11.0
+        }
+    },
+    {
+        "MerchantID": 13,
+        "MCC_Code": 5411,
+        "Merchant_Name": "Alfa Market",
+        "SubCategory": "Grocery",
+        "Location": "Luxor",
+        "Married_Female": 6.0,
+        "Married_Male": 4.0,
+        "Single_Male": 2.0,
+        "Single_Female": 0.0,
+        "HouseLocation": {
+            "Alexandria": 6.0,
+            "Aswan": 2.0,
+            "Cairo": 2.0,
+            "Giza": 2.0
+        },
+        "Ages": {
+            "28": 6.0,
+            "30": 2.0,
+            "35": 2.0,
+            "40": 2.0
+        },
+        "AccountType": {
+            "DEBIT": 8.0,
+            "CREDIT_CARD": 4.0
+        },
+        "Offer_Description": {
+            "Free delivery on orders above EGP 300": 6.0,
+            "Free delivery on orders above EGP 400": 6.0
+        }
+    },
+    {
+        "MerchantID": 14,
+        "MCC_Code": 5411,
+        "Merchant_Name": "Kheir Zaman",
+        "SubCategory": "Grocery",
+        "Location": "Aswan",
+        "Married_Female": 4.0,
+        "Married_Male": 4.0,
+        "Single_Male": 6.0,
+        "Single_Female": 2.0,
+        "HouseLocation": {
+            "Cairo": 6.0,
+            "Alexandria": 4.0,
+            "Aswan": 2.0,
+            "Giza": 2.0,
+            "Luxor": 2.0
+        },
+        "Ages": {
+            "30": 6.0,
+            "28": 4.0,
+            "22": 2.0,
+            "35": 2.0,
+            "40": 2.0
+        },
+        "AccountType": {
+            "CREDIT_CARD": 8.0,
+            "DEBIT": 8.0
+        },
+        "Offer_Description": {
+            "15% off on all dairy products": 8.0,
+            "20% off on all frozen foods": 8.0
+        }
+    },
+    {
+        "MerchantID": 15,
+        "MCC_Code": 5411,
+        "Merchant_Name": "Spinneys",
+        "SubCategory": "Grocery",
+        "Location": "Cairo",
+        "Married_Female": 2.0,
+        "Married_Male": 6.0,
+        "Single_Male": 0.0,
+        "Single_Female": 0.0,
+        "HouseLocation": {
+            "Giza": 4.0,
+            "Alexandria": 2.0,
+            "Aswan": 2.0
+        },
+        "Ages": {
+            "35": 4.0,
+            "28": 2.0,
+            "40": 2.0
+        },
+        "AccountType": {
+            "CREDIT_CARD": 6.0,
+            "DEBIT": 2.0
+        },
+        "Offer_Description": {
+            "Buy 2, get 1 free on selected items": 4.0,
+            "Buy 3, get 1 free on selected items": 4.0
+        }
+    },
+    {
+        "MerchantID": 16,
+        "MCC_Code": 5411,
+        "Merchant_Name": "Oscar",
+        "SubCategory": "Grocery",
+        "Location": "Alexandria",
+        "Married_Female": 4.0,
+        "Married_Male": 2.0,
+        "Single_Male": 0.0,
+        "Single_Female": 2.0,
+        "HouseLocation": {
+            "Alexandria": 4.0,
+            "Aswan": 2.0,
+            "Luxor": 2.0
+        },
+        "Ages": {
+            "28": 4.0,
+            "22": 2.0,
+            "40": 2.0
+        },
+        "AccountType": {
+            "DEBIT": 6.0,
+            "CREDIT_CARD": 2.0
+        },
+        "Offer_Description": {
+            "10% off on all canned goods": 4.0,
+            "10% off on all frozen foods": 4.0
+        }
+    },
+    {
+        "MerchantID": 17,
+        "MCC_Code": 5411,
+        "Merchant_Name": "Zad Supermarket",
+        "SubCategory": "Grocery",
+        "Location": "Giza",
+        "Married_Female": 4.0,
+        "Married_Male": 2.0,
+        "Single_Male": 0.0,
+        "Single_Female": 0.0,
+        "HouseLocation": {
+            "Alexandria": 4.0,
+            "Aswan": 2.0
+        },
+        "Ages": {
+            "28": 4.0,
+            "40": 2.0
+        },
+        "AccountType": {
+            "DEBIT": 4.0,
+            "CREDIT_CARD": 2.0
+        },
+        "Offer_Description": {
+            "Free reusable bag with every purchase": 3.0,
+            "Free shopping bag with every purchase": 3.0
+        }
+    },
+    {
+        "MerchantID": 18,
+        "MCC_Code": 5411,
+        "Merchant_Name": "Metro Market",
+        "SubCategory": "Grocery",
+        "Location": "Luxor",
+        "Married_Female": 0.0,
+        "Married_Male": 2.0,
+        "Single_Male": 0.0,
+        "Single_Female": 6.0,
+        "HouseLocation": {
+            "Luxor": 6.0,
+            "Giza": 2.0
+        },
+        "Ages": {
+            "22": 6.0,
+            "35": 2.0
+        },
+        "AccountType": {
+            "CREDIT_CARD": 6.0,
+            "DEBIT": 2.0
+        },
+        "Offer_Description": {
+            "20% off on all bakery items": 4.0,
+            "30% off on all snacks": 4.0
+        }
+    },
+    {
+        "MerchantID": 19,
+        "MCC_Code": 5411,
+        "Merchant_Name": "Alfa Market",
+        "SubCategory": "Grocery",
+        "Location": "Aswan",
+        "Married_Female": 2.0,
+        "Married_Male": 2.0,
+        "Single_Male": 2.0,
+        "Single_Female": 0.0,
+        "HouseLocation": {
+            "Alexandria": 2.0,
+            "Cairo": 2.0,
+            "Giza": 2.0
+        },
+        "Ages": {
+            "28": 2.0,
+            "30": 2.0,
+            "35": 2.0
+        },
+        "AccountType": {
+            "DEBIT": 4.0,
+            "CREDIT_CARD": 2.0
+        },
+        "Offer_Description": {
+            "Get a free gift on purchases above EGP 200": 3.0,
+            "Get a free gift on purchases above EGP 300": 3.0
+        }
+    },
+    {
+        "MerchantID": 20,
+        "MCC_Code": 5651,
+        "Merchant_Name": "H&M",
+        "SubCategory": "Clothing",
+        "Location": "Cairo",
+        "Married_Female": 2.0,
+        "Married_Male": 4.0,
+        "Single_Male": 2.0,
+        "Single_Female": 2.0,
+        "HouseLocation": {
+            "Alexandria": 2.0,
+            "Aswan": 2.0,
+            "Cairo": 2.0,
+            "Giza": 2.0,
+            "Luxor": 2.0
+        },
+        "Ages": {
+            "22": 2.0,
+            "28": 2.0,
+            "30": 2.0,
+            "35": 2.0,
+            "40": 2.0
+        },
+        "AccountType": {
+            "CREDIT_CARD": 6.0,
+            "DEBIT": 4.0
+        },
+        "Offer_Description": {
+            "40% off on all winter clothing": 5.0,
+            "50% off on all summer clothing": 5.0
+        }
+    },
+    {
+        "MerchantID": 21,
+        "MCC_Code": 5651,
+        "Merchant_Name": "Zara",
+        "SubCategory": "Clothing",
+        "Location": "Alexandria",
+        "Married_Female": 2.0,
+        "Married_Male": 4.0,
+        "Single_Male": 4.0,
+        "Single_Female": 2.0,
+        "HouseLocation": {
+            "Aswan": 4.0,
+            "Cairo": 4.0,
+            "Alexandria": 2.0,
+            "Luxor": 2.0
+        },
+        "Ages": {
+            "30": 4.0,
+            "40": 4.0,
+            "22": 2.0,
+            "28": 2.0
+        },
+        "AccountType": {
+            "DEBIT": 10.0,
+            "CREDIT_CARD": 2.0
+        },
+        "Offer_Description": {
+            "Buy 1, get 1 free on all sweaters": 6.0,
+            "Buy 2, get 1 free on all items": 6.0
+        }
+    },
+    {
+        "MerchantID": 22,
+        "MCC_Code": 5651,
+        "Merchant_Name": "Pull & Bear",
+        "SubCategory": "Clothing",
+        "Location": "Giza",
+        "Married_Female": 0.0,
+        "Married_Male": 4.0,
+        "Single_Male": 0.0,
+        "Single_Female": 4.0,
+        "HouseLocation": {
+            "Luxor": 4.0,
+            "Aswan": 2.0,
+            "Giza": 2.0
+        },
+        "Ages": {
+            "22": 4.0,
+            "35": 2.0,
+            "40": 2.0
+        },
+        "AccountType": {
+            "DEBIT": 6.0,
+            "CREDIT_CARD": 2.0
+        },
+        "Offer_Description": {
+            "20% off on all jackets": 4.0,
+            "30% off on all jeans": 4.0
+        }
+    },
+    {
+        "MerchantID": 23,
+        "MCC_Code": 5651,
+        "Merchant_Name": "Bershka",
+        "SubCategory": "Clothing",
+        "Location": "Luxor",
+        "Married_Female": 2.0,
+        "Married_Male": 6.0,
+        "Single_Male": 6.0,
+        "Single_Female": 2.0,
+        "HouseLocation": {
+            "Cairo": 6.0,
+            "Giza": 4.0,
+            "Alexandria": 2.0,
+            "Aswan": 2.0,
+            "Luxor": 2.0
+        },
+        "Ages": {
+            "30": 6.0,
+            "35": 4.0,
+            "22": 2.0,
+            "28": 2.0,
+            "40": 2.0
+        },
+        "AccountType": {
+            "CREDIT_CARD": 12.0,
+            "DEBIT": 4.0
+        },
+        "Offer_Description": {
+            "Free gloves with any winter coat purchase": 8.0,
+            "Free scarf with any winter jacket purchase": 8.0
+        }
+    },
+    {
+        "MerchantID": 24,
+        "MCC_Code": 5651,
+        "Merchant_Name": "Max",
+        "SubCategory": "Clothing",
+        "Location": "Aswan",
+        "Married_Female": 2.0,
+        "Married_Male": 4.0,
+        "Single_Male": 0.0,
+        "Single_Female": 6.0,
+        "HouseLocation": {
+            "Luxor": 6.0,
+            "Alexandria": 2.0,
+            "Aswan": 2.0,
+            "Giza": 2.0
+        },
+        "Ages": {
+            "22": 6.0,
+            "28": 2.0,
+            "35": 2.0,
+            "40": 2.0
+        },
+        "AccountType": {
+            "CREDIT_CARD": 6.0,
+            "DEBIT": 6.0
+        },
+        "Offer_Description": {
+            "15% off on all baby clothing": 6.0,
+            "20% off on all kids' clothing": 6.0
+        }
+    },
+    {
+        "MerchantID": 25,
+        "MCC_Code": 5651,
+        "Merchant_Name": "LC Waikiki",
+        "SubCategory": "Clothing",
+        "Location": "Cairo",
+        "Married_Female": 0.0,
+        "Married_Male": 2.0,
+        "Single_Male": 4.0,
+        "Single_Female": 0.0,
+        "HouseLocation": {
+            "Cairo": 4.0,
+            "Giza": 2.0
+        },
+        "Ages": {
+            "30": 4.0,
+            "35": 2.0
+        },
+        "AccountType": {
+            "CREDIT_CARD": 6.0
+        },
+        "Offer_Description": {
+            "10% off on all running shoes": 3.0,
+            "10% off on all sports wear": 3.0
+        }
+    },
+    {
+        "MerchantID": 26,
+        "MCC_Code": 5651,
+        "Merchant_Name": "Stradivarius",
+        "SubCategory": "Clothing",
+        "Location": "Alexandria",
+        "Married_Female": 0.0,
+        "Married_Male": 6.0,
+        "Single_Male": 2.0,
+        "Single_Female": 6.0,
+        "HouseLocation": {
+            "Aswan": 6.0,
+            "Luxor": 6.0,
+            "Cairo": 2.0
+        },
+        "Ages": {
+            "22": 6.0,
+            "40": 6.0,
+            "30": 2.0
+        },
+        "AccountType": {
+            "DEBIT": 10.0,
+            "CREDIT_CARD": 4.0
+        },
+        "Offer_Description": {
+            "Free belt with any jeans purchase": 7.0,
+            "Free socks with any shoe purchase": 7.0
+        }
+    },
+    {
+        "MerchantID": 27,
+        "MCC_Code": 5651,
+        "Merchant_Name": "Defacto",
+        "SubCategory": "Clothing",
+        "Location": "Giza",
+        "Married_Female": 2.0,
+        "Married_Male": 2.0,
+        "Single_Male": 2.0,
+        "Single_Female": 2.0,
+        "HouseLocation": {
+            "Alexandria": 2.0,
+            "Aswan": 2.0,
+            "Cairo": 2.0,
+            "Luxor": 2.0
+        },
+        "Ages": {
+            "22": 2.0,
+            "28": 2.0,
+            "30": 2.0,
+            "40": 2.0
+        },
+        "AccountType": {
+            "CREDIT_CARD": 6.0,
+            "DEBIT": 2.0
+        },
+        "Offer_Description": {
+            "15% off on all accessories": 4.0,
+            "20% off on all handbags": 4.0
+        }
+    },
+    {
+        "MerchantID": 28,
+        "MCC_Code": 5651,
+        "Merchant_Name": "Tommy Hilfiger",
+        "SubCategory": "Clothing",
+        "Location": "Luxor",
+        "Married_Female": 0.0,
+        "Married_Male": 6.0,
+        "Single_Male": 0.0,
+        "Single_Female": 0.0,
+        "HouseLocation": {
+            "Aswan": 4.0,
+            "Giza": 2.0
+        },
+        "Ages": {
+            "40": 4.0,
+            "35": 2.0
+        },
+        "AccountType": {
+            "CREDIT_CARD": 4.0,
+            "DEBIT": 2.0
+        },
+        "Offer_Description": {
+            "15% off on all suits": 3.0,
+            "20% off on all formal wear": 3.0
+        }
+    },
+    {
+        "MerchantID": 29,
+        "MCC_Code": 5651,
+        "Merchant_Name": "Adidas",
+        "SubCategory": "Clothing",
+        "Location": "Aswan",
+        "Married_Female": 0.0,
+        "Married_Male": 4.0,
+        "Single_Male": 0.0,
+        "Single_Female": 0.0,
+        "HouseLocation": {
+            "Aswan": 2.0,
+            "Giza": 2.0
+        },
+        "Ages": {
+            "35": 2.0,
+            "40": 2.0
+        },
+        "AccountType": {
+            "DEBIT": 4.0
+        },
+        "Offer_Description": {
+            "Free cap with any purchase above EGP 300": 2.0,
+            "Free sunglasses with any purchase above EGP 500": 2.0
+        }
+    },
+    {
+        "MerchantID": 30,
+        "MCC_Code": 5732,
+        "Merchant_Name": "Souq.com",
+        "SubCategory": "Electronics",
+        "Location": "Cairo",
+        "Married_Female": 0.0,
+        "Married_Male": 4.0,
+        "Single_Male": 2.0,
+        "Single_Female": 4.0,
+        "HouseLocation": {
+            "Luxor": 4.0,
+            "Aswan": 2.0,
+            "Cairo": 2.0,
+            "Giza": 2.0
+        },
+        "Ages": {
+            "22": 4.0,
+            "30": 2.0,
+            "35": 2.0,
+            "40": 2.0
+        },
+        "AccountType": {
+            "CREDIT_CARD": 6.0,
+            "DEBIT": 4.0
+        },
+        "Offer_Description": {
+            "10% off on all electronics": 5.0,
+            "15% off on all laptops": 5.0
+        }
+    },
+    {
+        "MerchantID": 31,
+        "MCC_Code": 5732,
+        "Merchant_Name": "Jumia",
+        "SubCategory": "Electronics",
+        "Location": "Alexandria",
+        "Married_Female": 0.0,
+        "Married_Male": 2.0,
+        "Single_Male": 0.0,
+        "Single_Female": 4.0,
+        "HouseLocation": {
+            "Luxor": 4.0,
+            "Giza": 2.0
+        },
+        "Ages": {
+            "22": 4.0,
+            "35": 2.0
+        },
+        "AccountType": {
+            "DEBIT": 6.0
+        },
+        "Offer_Description": {
+            "Free delivery on orders above EGP 1000": 3.0,
+            "Free mouse with any desktop purchase": 3.0
+        }
+    },
+    {
+        "MerchantID": 32,
+        "MCC_Code": 5732,
+        "Merchant_Name": "Noon",
+        "SubCategory": "Electronics",
+        "Location": "Giza",
+        "Married_Female": 2.0,
+        "Married_Male": 4.0,
+        "Single_Male": 0.0,
+        "Single_Female": 0.0,
+        "HouseLocation": {
+            "Giza": 4.0,
+            "Alexandria": 2.0
+        },
+        "Ages": {
+            "35": 4.0,
+            "28": 2.0
+        },
+        "AccountType": {
+            "DEBIT": 4.0,
+            "CREDIT_CARD": 2.0
+        },
+        "Offer_Description": {
+            "20% off on all smartphones": 3.0,
+            "25% off on all tablets": 3.0
+        }
+    },
+    {
+        "MerchantID": 33,
+        "MCC_Code": 5732,
+        "Merchant_Name": "Eureka",
+        "SubCategory": "Electronics",
+        "Location": "Luxor",
+        "Married_Female": 0.0,
+        "Married_Male": 2.0,
+        "Single_Male": 0.0,
+        "Single_Female": 2.0,
+        "HouseLocation": {
+            "Giza": 2.0,
+            "Luxor": 2.0
+        },
+        "Ages": {
+            "22": 2.0,
+            "35": 2.0
+        },
+        "AccountType": {
+            "CREDIT_CARD": 2.0,
+            "DEBIT": 2.0
+        },
+        "Offer_Description": {
+            "Free earphones with any laptop purchase": 2.0,
+            "Free keyboard with any PC purchase": 2.0
+        }
+    },
+    {
+        "MerchantID": 34,
+        "MCC_Code": 5732,
+        "Merchant_Name": "El Araby Group",
+        "SubCategory": "Electronics",
+        "Location": "Aswan",
+        "Married_Female": 4.0,
+        "Married_Male": 4.0,
+        "Single_Male": 0.0,
+        "Single_Female": 2.0,
+        "HouseLocation": {
+            "Alexandria": 4.0,
+            "Aswan": 2.0,
+            "Giza": 2.0,
+            "Luxor": 2.0
+        },
+        "Ages": {
+            "28": 4.0,
+            "22": 2.0,
+            "35": 2.0,
+            "40": 2.0
+        },
+        "AccountType": {
+            "CREDIT_CARD": 10.0
+        },
+        "Offer_Description": {
+            "15% off on all home appliances": 5.0,
+            "20% off on all washing machines": 5.0
+        }
+    },
+    {
+        "MerchantID": 35,
+        "MCC_Code": 5732,
+        "Merchant_Name": "Sharaf DG",
+        "SubCategory": "Electronics",
+        "Location": "Cairo",
+        "Married_Female": 2.0,
+        "Married_Male": 2.0,
+        "Single_Male": 2.0,
+        "Single_Female": 2.0,
+        "HouseLocation": {
+            "Alexandria": 2.0,
+            "Aswan": 2.0,
+            "Cairo": 2.0,
+            "Luxor": 2.0
+        },
+        "Ages": {
+            "22": 2.0,
+            "28": 2.0,
+            "30": 2.0,
+            "40": 2.0
+        },
+        "AccountType": {
+            "CREDIT_CARD": 6.0,
+            "DEBIT": 2.0
+        },
+        "Offer_Description": {
+            "10% off on all TVs": 4.0,
+            "10% off on all sound systems": 4.0
+        }
+    },
+    {
+        "MerchantID": 36,
+        "MCC_Code": 5732,
+        "Merchant_Name": "Extra",
+        "SubCategory": "Electronics",
+        "Location": "Alexandria",
+        "Married_Female": 4.0,
+        "Married_Male": 2.0,
+        "Single_Male": 0.0,
+        "Single_Female": 6.0,
+        "HouseLocation": {
+            "Luxor": 6.0,
+            "Alexandria": 4.0,
+            "Giza": 2.0
+        },
+        "Ages": {
+            "22": 6.0,
+            "28": 4.0,
+            "35": 2.0
+        },
+        "AccountType": {
+            "CREDIT_CARD": 6.0,
+            "DEBIT": 6.0
+        },
+        "Offer_Description": {
+            "Free installation on all AC purchases": 6.0,
+            "Free installation on all refrigerator purchases": 6.0
+        }
+    },
+    {
+        "MerchantID": 37,
+        "MCC_Code": 5732,
+        "Merchant_Name": "B.Tech",
+        "SubCategory": "Electronics",
+        "Location": "Giza",
+        "Married_Female": 0.0,
+        "Married_Male": 4.0,
+        "Single_Male": 2.0,
+        "Single_Female": 4.0,
+        "HouseLocation": {
+            "Luxor": 4.0,
+            "Aswan": 2.0,
+            "Cairo": 2.0,
+            "Giza": 2.0
+        },
+        "Ages": {
+            "22": 4.0,
+            "30": 2.0,
+            "35": 2.0,
+            "40": 2.0
+        },
+        "AccountType": {
+            "DEBIT": 8.0,
+            "CREDIT_CARD": 2.0
+        },
+        "Offer_Description": {
+            "20% off on all gaming consoles": 5.0,
+            "30% off on all gaming accessories": 5.0
+        }
+    },
+    {
+        "MerchantID": 38,
+        "MCC_Code": 5732,
+        "Merchant_Name": "Samsung Store",
+        "SubCategory": "Electronics",
+        "Location": "Luxor",
+        "Married_Female": 4.0,
+        "Married_Male": 2.0,
+        "Single_Male": 2.0,
+        "Single_Female": 0.0,
+        "HouseLocation": {
+            "Alexandria": 4.0,
+            "Cairo": 2.0,
+            "Giza": 2.0
+        },
+        "Ages": {
+            "28": 4.0,
+            "30": 2.0,
+            "35": 2.0
+        },
+        "AccountType": {
+            "CREDIT_CARD": 4.0,
+            "DEBIT": 4.0
+        },
+        "Offer_Description": {
+            "Free headset with any console purchase": 4.0,
+            "Free power bank with any mobile purchase": 4.0
+        }
+    },
+    {
+        "MerchantID": 39,
+        "MCC_Code": 5732,
+        "Merchant_Name": "Apple Store",
+        "SubCategory": "Electronics",
+        "Location": "Aswan",
+        "Married_Female": 2.0,
+        "Married_Male": 4.0,
+        "Single_Male": 2.0,
+        "Single_Female": 4.0,
+        "HouseLocation": {
+            "Giza": 4.0,
+            "Luxor": 4.0,
+            "Alexandria": 2.0,
+            "Cairo": 2.0
+        },
+        "Ages": {
+            "22": 4.0,
+            "35": 4.0,
+            "28": 2.0,
+            "30": 2.0
+        },
+        "AccountType": {
+            "CREDIT_CARD": 6.0,
+            "DEBIT": 6.0
+        },
+        "Offer_Description": {
+            "10% off on all Apple products": 6.0,
+            "15% off on all iPads": 6.0
+        }
+    },
+    {
+        "MerchantID": 40,
+        "MCC_Code": 5912,
+        "Merchant_Name": "Seif Pharmacy",
+        "SubCategory": "Pharmacy",
+        "Location": "Cairo",
+        "Married_Female": 2.0,
+        "Married_Male": 4.0,
+        "Single_Male": 2.0,
+        "Single_Female": 2.0,
+        "HouseLocation": {
+            "Alexandria": 2.0,
+            "Aswan": 2.0,
+            "Cairo": 2.0,
+            "Giza": 2.0,
+            "Luxor": 2.0
+        },
+        "Ages": {
+            "22": 2.0,
+            "28": 2.0,
+            "30": 2.0,
+            "35": 2.0,
+            "40": 2.0
+        },
+        "AccountType": {
+            "CREDIT_CARD": 6.0,
+            "DEBIT": 4.0
+        },
+        "Offer_Description": {
+            "Get a free first aid kit with any purchase": 5.0,
+            "Get a free vitamin pack with any purchase": 5.0
+        }
+    },
+    {
+        "MerchantID": 41,
+        "MCC_Code": 5912,
+        "Merchant_Name": "El Ezaby Pharmacy",
+        "SubCategory": "Pharmacy",
+        "Location": "Alexandria",
+        "Married_Female": 2.0,
+        "Married_Male": 2.0,
+        "Single_Male": 4.0,
+        "Single_Female": 4.0,
+        "HouseLocation": {
+            "Cairo": 4.0,
+            "Luxor": 4.0,
+            "Alexandria": 2.0,
+            "Giza": 2.0
+        },
+        "Ages": {
+            "22": 4.0,
+            "30": 4.0,
+            "28": 2.0,
+            "35": 2.0
+        },
+        "AccountType": {
+            "CREDIT_CARD": 6.0,
+            "DEBIT": 6.0
+        },
+        "Offer_Description": {
+            "20% off on all skincare products": 6.0,
+            "25% off on all hair care products": 6.0
+        }
+    },
+    {
+        "MerchantID": 42,
+        "MCC_Code": 5912,
+        "Merchant_Name": "19011 Pharmacy",
+        "SubCategory": "Pharmacy",
+        "Location": "Giza",
+        "Married_Female": 4.0,
+        "Married_Male": 4.0,
+        "Single_Male": 4.0,
+        "Single_Female": 6.0,
+        "HouseLocation": {
+            "Luxor": 6.0,
+            "Alexandria": 4.0,
+            "Cairo": 4.0,
+            "Aswan": 2.0,
+            "Giza": 2.0
+        },
+        "Ages": {
+            "22": 6.0,
+            "28": 4.0,
+            "30": 4.0,
+            "35": 2.0,
+            "40": 2.0
+        },
+        "AccountType": {
+            "DEBIT": 10.0,
+            "CREDIT_CARD": 8.0
+        },
+        "Offer_Description": {
+            "Free consultation with any purchase above EGP 200": 9.0,
+            "Free consultation with any purchase above EGP 300": 9.0
+        }
+    },
+    {
+        "MerchantID": 43,
+        "MCC_Code": 5912,
+        "Merchant_Name": "Al Dawaa Pharmacy",
+        "SubCategory": "Pharmacy",
+        "Location": "Luxor",
+        "Married_Female": 2.0,
+        "Married_Male": 4.0,
+        "Single_Male": 0.0,
+        "Single_Female": 0.0,
+        "HouseLocation": {
+            "Giza": 4.0,
+            "Alexandria": 2.0
+        },
+        "Ages": {
+            "35": 4.0,
+            "28": 2.0
+        },
+        "AccountType": {
+            "DEBIT": 6.0
+        },
+        "Offer_Description": {
+            "15% off on all baby care products": 3.0,
+            "20% off on all baby food": 3.0
+        }
+    },
+    {
+        "MerchantID": 44,
+        "MCC_Code": 5912,
+        "Merchant_Name": "Al Shorouk Pharmacy",
+        "SubCategory": "Pharmacy",
+        "Location": "Aswan",
+        "Married_Female": 0.0,
+        "Married_Male": 6.0,
+        "Single_Male": 0.0,
+        "Single_Female": 4.0,
+        "HouseLocation": {
+            "Aswan": 6.0,
+            "Luxor": 4.0
+        },
+        "Ages": {
+            "40": 6.0,
+            "22": 4.0
+        },
+        "AccountType": {
+            "DEBIT": 8.0,
+            "CREDIT_CARD": 2.0
+        },
+        "Offer_Description": {
+            "10% off on all supplements": 5.0,
+            "15% off on all vitamins": 5.0
+        }
+    },
+    {
+        "MerchantID": 45,
+        "MCC_Code": 5912,
+        "Merchant_Name": "Misr Pharmacy",
+        "SubCategory": "Pharmacy",
+        "Location": "Cairo",
+        "Married_Female": 0.0,
+        "Married_Male": 2.0,
+        "Single_Male": 2.0,
+        "Single_Female": 0.0,
+        "HouseLocation": {
+            "Aswan": 2.0,
+            "Cairo": 2.0
+        },
+        "Ages": {
+            "30": 2.0,
+            "40": 2.0
+        },
+        "AccountType": {
+            "DEBIT": 4.0
+        },
+        "Offer_Description": {
+            "Free hand cream with any purchase": 2.0,
+            "Free mask with any purchase": 2.0
+        }
+    },
+    {
+        "MerchantID": 46,
+        "MCC_Code": 5912,
+        "Merchant_Name": "Al Borg Pharmacy",
+        "SubCategory": "Pharmacy",
+        "Location": "Alexandria",
+        "Married_Female": 2.0,
+        "Married_Male": 8.0,
+        "Single_Male": 4.0,
+        "Single_Female": 2.0,
+        "HouseLocation": {
+            "Aswan": 4.0,
+            "Cairo": 4.0,
+            "Giza": 4.0,
+            "Alexandria": 2.0,
+            "Luxor": 2.0
+        },
+        "Ages": {
+            "30": 4.0,
+            "35": 4.0,
+            "40": 4.0,
+            "22": 2.0,
+            "28": 2.0
+        },
+        "AccountType": {
+            "CREDIT_CARD": 12.0,
+            "DEBIT": 4.0
+        },
+        "Offer_Description": {
+            "20% off on all hair care products": 8.0,
+            "30% off on all shampoos": 8.0
+        }
+    },
+    {
+        "MerchantID": 47,
+        "MCC_Code": 5912,
+        "Merchant_Name": "Al Safa Pharmacy",
+        "SubCategory": "Pharmacy",
+        "Location": "Giza",
+        "Married_Female": 2.0,
+        "Married_Male": 12.0,
+        "Single_Male": 2.0,
+        "Single_Female": 2.0,
+        "HouseLocation": {
+            "Aswan": 8.0,
+            "Giza": 4.0,
+            "Alexandria": 2.0,
+            "Cairo": 2.0,
+            "Luxor": 2.0
+        },
+        "Ages": {
+            "40": 8.0,
+            "35": 4.0,
+            "22": 2.0,
+            "28": 2.0,
+            "30": 2.0
+        },
+        "AccountType": {
+            "DEBIT": 12.0,
+            "CREDIT_CARD": 6.0
+        },
+        "Offer_Description": {
+            "Free hand sanitizer with any purchase above EGP 100": 9.0,
+            "Free sanitizer with any purchase above EGP 150": 9.0
+        }
+    },
+    {
+        "MerchantID": 48,
+        "MCC_Code": 5912,
+        "Merchant_Name": "Al Hayat Pharmacy",
+        "SubCategory": "Pharmacy",
+        "Location": "Luxor",
+        "Married_Female": 0.0,
+        "Married_Male": 2.0,
+        "Single_Male": 4.0,
+        "Single_Female": 2.0,
+        "HouseLocation": {
+            "Cairo": 4.0,
+            "Giza": 2.0,
+            "Luxor": 2.0
+        },
+        "Ages": {
+            "30": 4.0,
+            "22": 2.0,
+            "35": 2.0
+        },
+        "AccountType": {
+            "CREDIT_CARD": 6.0,
+            "DEBIT": 2.0
+        },
+        "Offer_Description": {
+            "15% off on all dental care products": 4.0,
+            "20% off on all toothpaste": 4.0
+        }
+    },
+    {
+        "MerchantID": 49,
+        "MCC_Code": 5912,
+        "Merchant_Name": "Al Shams Pharmacy",
+        "SubCategory": "Pharmacy",
+        "Location": "Aswan",
+        "Married_Female": 2.0,
+        "Married_Male": 4.0,
+        "Single_Male": 0.0,
+        "Single_Female": 4.0,
+        "HouseLocation": {
+            "Luxor": 4.0,
+            "Alexandria": 2.0,
+            "Aswan": 2.0,
+            "Giza": 2.0
+        },
+        "Ages": {
+            "22": 4.0,
+            "28": 2.0,
+            "35": 2.0,
+            "40": 2.0
+        },
+        "AccountType": {
+            "DEBIT": 8.0,
+            "CREDIT_CARD": 2.0
+        },
+        "Offer_Description": {
+            "10% off on all first aid products": 5.0,
+            "15% off on all bandages": 5.0
+        }
+    }
+]
